@@ -18,6 +18,7 @@ public class GitPractice {
         System.out.println("Northwest Missouri State University");
         System.out.println("MY name is Srinivasa Rao MaKKENA");
         System.out.println("added one more line");
+        System.out.println("Testing for conflicts");
     }
     
 }
